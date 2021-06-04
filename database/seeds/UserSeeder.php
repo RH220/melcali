@@ -18,10 +18,6 @@ class UserSeeder extends Seeder
             'email' => 'test@test.test',
             'email_verified_at' => now(),
             'password' => 'testtest',
-            'name' => 'RH',
-            'email' => 'radwimrh@gmail.com',
-            'email_verified_at' => now(),
-            'password' => '52375237',
         ]);
     }
 }
